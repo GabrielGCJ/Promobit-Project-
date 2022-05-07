@@ -1,8 +1,11 @@
 import './App.css';
+import Router from './Routes/Router';
 
-function App() {
+const App = () => {
   return (
-    <div>Promobit</div>
+    <div>
+      <Router/>
+      </div>
   );
 }
 
