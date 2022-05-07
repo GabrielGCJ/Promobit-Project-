@@ -1,6 +1,6 @@
 import { BrowserRouter, Switch, Route } from "react-router-dom"
-import ErrorPage from "../Pages/ErrorPage"
-import HomePage from "../Pages/HomePage"
+import ErrorPage from "../Pages/ErrorPage/ErrorPage"
+import HomePage from "../Pages/HomePage/HomePage"
 
 
 
