@@ -1,11 +1,12 @@
-import { ContainerHeader } from "./styled"
+import { ContainerHeader,DivLogo} from "./styled"
 
 const Header = () => {
 
     return(
 
         <ContainerHeader>
-            <h1> Heather </h1>
+            <h3> TMDB </h3>
+            <DivLogo></DivLogo>
         </ContainerHeader>
     )
 }
